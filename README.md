@@ -23,9 +23,9 @@
          style="height: 27px;" /></a>
 
   <!-- GitHub Followers Badge -->
-  <a href="https://github.com/Jeferson0071?tab=repositories" style="text-decoration: none;">
-    <img alt="Repositories" title="See my repositories on GitHub"
-        src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=634781"
+   <a href="https://github.com/Jeferson0071?tab=followers" style="text-decoration: none;">
+    <img alt="Followers" title="My Followers on GitHub"
+        src="https://img.shields.io/github/followers/Jeferson0071?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1"
         style="height: 27px;" /></a>
 </p>
 
