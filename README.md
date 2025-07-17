@@ -31,7 +31,7 @@
 
 <!-- GitHub Logo -->
 
-<img align="right" alt="tux-typing-gif" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="1rem" />
+<img align="right" alt="tux-typing-gif" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200px" />
 
 <br>
 
