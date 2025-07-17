@@ -11,7 +11,7 @@
 <br>
 <p align='center'>
 <br>
-<h1 align='center'>Languages and Tools:</h1>
+<h1 align='center'>📚Stacks</h1>
 <div align='center'>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,github,git,devto,)](https://skillicons.dev)
