@@ -1,8 +1,8 @@
-<p align='center'>
+<p align='center display='flex'>
 <img src="[https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub](https://api.products.aspose.app/slides/slides-io-api-app/api/Common/DownloadFile/189501ea-270b-4810-b99e-ca7d26cb7280?file=result.gif)">
 </p>
 <div align='center'>
-<picture ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width= 40px></picture> <h1>Dev - Jeferson</h1>
+<picture ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width= 40px font-weight: bold;></picture> <h1> Jeferson Almeida</h1>
 </div>
 
 <p align='center'>
