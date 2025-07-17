@@ -5,10 +5,10 @@
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="[www.linkedin.com/in/jeferson-almeida-372799289](https://www.linkedin.com/in/jeferson-almeida-372799289/)" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781"
-         style="height: 27px;" /></a>
+ <a href="https://www.linkedin.com/in/jeferson-almeida-372799289/" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn"
+        src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781"
+        style="height: 27px;" /></a>
 
   <!-- Gmail Badge -->
   <a href="[jefersonalmeida2210@gmail.com](jefersonalmeida2210@gmail.com)" style="text-decoration: none;">
@@ -68,5 +68,5 @@ I'm a curious person and driven to constantly learn. I'm currently pursuing the 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-  <img alt="pacman contribution graph" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+  <img alt="pacman contribution graph" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center">
 </picture>
