@@ -12,7 +12,6 @@
 <p align='center'>
 <br>
 <a href="https://e1.pngegg.com/pngimages/698/876/png-clipart-emoji-sticker-assorted-reading-books-illustration.png">
-<img href="https://e1.pngegg.com/pngimages/698/876/png-clipart-emoji-sticker-assorted-reading-books-illustration.png">ola </img></a>
 <h1 align='center'>📚Stacks</h1>
 <div align='center'>
 
